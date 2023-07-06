@@ -16,7 +16,7 @@
 
 ***
 
-3. Вводим любое сообщение для активации работы бота:
+2. Вводим любое сообщение для активации работы бота:
    
 ![](https://github.com/s-alex-developer/github.com_supporting-files/blob/main/Group_work_VKinder/img/user_guide/2.png)
 
@@ -27,3 +27,36 @@
 ![](https://github.com/s-alex-developer/github.com_supporting-files/blob/main/Group_work_VKinder/img/user_guide/3.png)
 
 ***
+4. Если бот настроен верно и активен, будет предложено нажать на кнопку "Начать поиск".
+
+![](https://github.com/s-alex-developer/github.com_supporting-files/blob/main/Group_work_VKinder/img/user_guide/4.png)
+
+***
+5. Далее в формате диалога с ботом будет необходимо ответить на три вопроса и указать город, пол кандидатов и их возрастной диапазаон.
+ 
+   По этим трем параметрам будет осуществен подбор профилей пользователей "ВКонтакте", нажимаем на кнопку "Просмотреть результаты", чтобы продолжить.
+
+![](https://github.com/s-alex-developer/github.com_supporting-files/blob/main/Group_work_VKinder/img/user_guide/5.png)
+
+***
+6. Отлично! Мы получили первый результат поиска: Имя, Фамилию пользователя, ссылку на профиль "ВКонтакте" и три самые популярные фотографии профиля, имеющие наибольшее колличество "лайков
+   
+![](https://github.com/s-alex-developer/github.com_supporting-files/blob/main/Group_work_VKinder/img/user_guide/6.png)
+
+***
+7. При помощи кнопок "Добавить в избранное" и "Просмотреть избранное" мы можем сохранять и просматривать заинтересовавшие нас профили.
+   После завершения текущего сеанса поиска избранные профили буду сохранены и Вы сможете вернуться к их просмотру в будущем.
+   
+![](https://github.com/s-alex-developer/github.com_supporting-files/blob/main/Group_work_VKinder/img/user_guide/7.png)
+***
+
+8. Профили, которые нам показались не интересными можно внести "черный список" нажатием кнопки "Игнорировать профиль".
+
+![](https://github.com/s-alex-developer/github.com_supporting-files/blob/main/Group_work_VKinder/img/user_guide/8.png)
+***
+
+9.
+
+
+![]()
+![]()
